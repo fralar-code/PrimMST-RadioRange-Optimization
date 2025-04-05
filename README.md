@@ -56,7 +56,7 @@ Assuming you have a C++ compiler (like g++) installed:
 ## Input File (`input.txt`) Format
 
 The `input.txt` file should be formatted as follows:
-
+```text
 N <-- Number of Test Cases
 S_1 V_1 <-- Test Case 1: Number of Satellites, Number of Outposts
 x_1 y_1 <-- Outpost 1 Coordinates
@@ -68,7 +68,7 @@ x_1 y_1
 ...
 x_V2 y_V2
 ... (continues for N test cases)
-
+```
 Where:
 
 *   `N`:  The total number of test cases.
