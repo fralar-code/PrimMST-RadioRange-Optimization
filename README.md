@@ -17,16 +17,7 @@ The solution utilizes Prim's Minimum Spanning Tree (MST) algorithm to find the m
 ## Project Structure
 
 The repository is organized as follows:
-Minimum-Radio-Range-Outposts-MST/
-├── src/
-│ ├── main.cpp
-│ ├── Graph.h
-│ ├── PriorityQueue.h
-│ └── Coords.h
-├── doc/
-│ └── Report.pdf
-├── input.txt
-└── README.md
+<pre lang="md"> ```text Minimum-Radio-Range-Outposts-MST/ ├── src/ │ ├── main.cpp │ ├── Graph.h │ ├── PriorityQueue.h │ └── Coords.h ├── doc/ │ └── Report.pdf ├── input.txt └── README.md ``` </pre>
 
 *   **`src/`**: Contains all the C++ source code files (`.cpp` and `.h`).
     *   `main.cpp`:  The main program file, responsible for input processing, graph construction, algorithm execution, and output.
